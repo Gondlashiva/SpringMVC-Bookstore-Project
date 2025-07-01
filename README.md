@@ -14,3 +14,9 @@ A mini project built with Spring MVC, Thymeleaf, Spring Data JPA, MySQL.
 -> Thymeleaf
 -> Spring Data JPA
 -> MySQL
+
+## Project Pictures
+
+Home page
+
+
