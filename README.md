@@ -37,3 +37,8 @@ Deleted Book
 
 ![image alt](https://github.com/Gondlashiva/SpringMVC-Bookstore-Project/blob/9a2cc0af297d8cff18666857124ee1242f2b47f2/deleted_Book.png)
 
+MYSQL View Book List
+
+![image alt](https://github.com/Gondlashiva/SpringMVC-Bookstore-Project/blob/daf4940d72d7cd0e5bcfa00a14af5a3180e8c581/MySQL_view.png)
+
+
