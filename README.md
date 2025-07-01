@@ -32,3 +32,8 @@ Update Book
 Deleting Book
 
 ![image alt](https://github.com/Gondlashiva/SpringMVC-Bookstore-Project/blob/9ea858f2d0efd6cd7efd17c45c257312a95f7988/Delete_Book.png)
+
+Deleted Book
+
+![image alt](https://github.com/Gondlashiva/SpringMVC-Bookstore-Project/blob/9a2cc0af297d8cff18666857124ee1242f2b47f2/deleted_Book.png)
+
